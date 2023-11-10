@@ -804,7 +804,7 @@ span {
 
 @media (max-width: 450px) {
   html {
-    font-size: 55%;
+    font-size: 50%;
   }
   .home-content h1 {
     font-size: 5.2rem;
